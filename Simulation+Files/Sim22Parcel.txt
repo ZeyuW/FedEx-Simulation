@@ -1,0 +1,4 @@
+Large_Parcel 0.0 10.0 0.0 0.0
+Small_Parcel 0.0 7.0 0.0 0.0
+Large_Parcel 45.0 60.0 300.0 300.0
+Medium_Parcel 85.0 150.0 0.0 60.0
